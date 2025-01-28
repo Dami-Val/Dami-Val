@@ -28,6 +28,12 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ---
 
+| 👀 Current Focus | [![GitHub](https://img.shields.io/github/followers/Dami-Val?style=social)](https://github.com/Dami-Val) |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 🔹 **Focused on Web Design Excellence 🌐💻:** <br> I’m exploring the world of web design, channeling my technical and creative skills to craft user-centered and visually engaging interfaces that prioritize functionality and beauty. |   ![OMG](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVqMnBtZTRwODFxemUybWI1ZWJraTRlcW55aXA1emk5OHJkeHE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgHq4eDQKKCHqAo/giphy.gif)                                                                                                                         |
+
+
+
 ## 📈 GitHub Stats 
 
 <div align="center">
@@ -60,16 +66,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ---
 
-| 👀 Current Focus | [![GitHub](https://img.shields.io/github/followers/Dami-Val?style=social)](https://github.com/Dami-Val) |
-|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 🔹 **Focused on Web Design Excellence 🌐💻:** <br> I’m exploring the world of web design, channeling my technical and creative skills to craft user-centered and visually engaging interfaces that prioritize functionality and beauty. |   ![OMG](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVqMnBtZTRwODFxemUybWI1ZWJraTRlcW55aXA1emk5OHJkeHE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgHq4eDQKKCHqAo/giphy.gif)                                                                                                                         |
 
-
-
-### 🌟 **Achievements**
-- 🏆 Completed **[AnimalBots Rescue](https://github.com/Dami-Val/AnimalBots-Rescue)**  
-- 📖 Studying at UDC Colima | 🎓 Group Leader | 🏢Expo FIE 2024  
----
 
 ### 🚀 My Mission 
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
@@ -87,17 +84,4 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 ---
 
-### 🌐 My favorite softwares & services
-
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12) 
-
-
----
-
-# 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥, 𝘴𝘦𝘦 𝘺𝘰𝘶 𝘴𝘰𝘰𝘯!
-
-![car](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFjbWExaXFwc3BxZ2t2YjE2NzAxeGMwMWZ1cDBnOXE4ODdjcnMzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif)
-
-
----
 
