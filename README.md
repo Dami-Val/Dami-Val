@@ -53,9 +53,15 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 ### 🌐 My favorite softwares & services
 
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12)
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,figma,notion,azure,vim,git,gitlab,fastapi,flutter,linkedin,windows,apple,linux,ubuntu,ps,ai,pr,ae,xd,au,unreal,unity,&perline=12) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dami-Val&theme=github-dark)
+
 
 ---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dami-Val&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dami-Val&layout=compact&theme=dark)
+
+![y](https://github-readme-streak-stats.herokuapp.com/?user=Dami-Val&theme=dark)
+
 
 # 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘳𝘦𝘢𝘥, 𝘴𝘦𝘦 𝘺𝘰𝘶 𝘴𝘰𝘰𝘯!
 
