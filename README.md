@@ -82,7 +82,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_) 
 
 
 ---
