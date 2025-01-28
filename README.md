@@ -1,7 +1,8 @@
-![Mi Banner](my_banner.png)
+![My Banner](my_banner.png)
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
+
 
 ✨ I'm passionate about creating innovative solutions that make a difference.  
 🔭 Currently working on: **[Damian's Portfolio](https://github.com/Dami-Val/Damian-s-Portfolio.git)**  
@@ -44,23 +45,22 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ### 📊 Stats & Languages  
 
-<table>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dami-Val&show_icons=true&theme=dark&hide_rank=true&card_width=300"></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dami-Val&layout=compact&theme=dark&card_width=300"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dami-Val&show_icons=true&theme=transparent&hide_rank=true&card_width=300&hide_border=true"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dami-Val&layout=compact&theme=transparent&card_width=300&hide_border=true"></td>
   </tr>
-</table>
+
 
 ---
 
 ### 🚀 Activity & Achievements
 
-<table>
+
   <tr>
-    <td align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dami-Val&theme=github-dark"></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dami-Val&theme=darkhub"></td>
+    <td align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Dami-Val&theme=github-dark&hide_border=true"></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dami-Val&theme=transparent&hide_border=true"></td>
   </tr>
-</table>
+
 
 </div>
 
@@ -68,7 +68,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
-### 🚀 My Mission 
+### 🎯 My Mission 
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
  <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />
  
