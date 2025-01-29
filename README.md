@@ -9,7 +9,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ## 🎮 Last project: [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
 
-##
+
 
 ### 🚀 **Skills & Tools**
 
