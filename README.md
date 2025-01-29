@@ -4,12 +4,11 @@
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
 
-✨ I'm passionate about creating innovative solutions that make a difference.  
-🔭 Currently working on: **[Damian's Portfolio](https://github.com/Dami-Val/Damian-s-Portfolio.git)**  
-🎮  Last proyect: **[AnimalBots Rescue](https://github.com/Dami-Val/AnimalBots-Rescue)**  
+✨ I'm passionate about creating innovative solutions that make a difference.
 
----
+🔭 Currently working on: [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-000000?style=flat&logo=github&logoColor=green&labelColor=000000)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
 
+🎮 Last project: [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
 
 
 
