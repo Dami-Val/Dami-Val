@@ -15,6 +15,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
+
 - 💻 Languajes:  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) [![](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)
 - 🤖 AI Development | 📚 Project Management
 - ⭐ Project Management: Successfully leading multidisciplinary teams and delivering high-quality products on time ⏳.
