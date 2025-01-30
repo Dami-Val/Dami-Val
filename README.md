@@ -1,13 +1,16 @@
 ![My Banner](dam_banner.png)
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
-I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
+I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?style=plastic&logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
+
+[![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Seguidores&color=393939)](https://github.com/Dami-Val)
+   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=393939&style=plastic&label=Profile+views&logo=eye)
 
 ✨ I'm passionate about creating innovative solutions that make a difference.
 ##
-## 🔭 Currently working on: [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-000000?style=flat&logo=github&logoColor=green&labelColor=000000)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
+## 🔭 Currently working on:   [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-000000?style=plastic&logo=github&logoColor=green&labelColor=000000)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
 
-## 🎮 Last project: [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
+## 🎮 Last project:   [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=plastic&logo=github&logoColor=blue&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
 
 
 
@@ -16,7 +19,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
-- 💻 Languajes:  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/) [![](https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white)](https://devdocs.io/c/)
+- 💻 Languajes:  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://docs.python.org/3/) [![](https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white)](https://devdocs.io/c/)
 - 🤖 AI Development | 📚 Project Management
 - ⭐ Project Management: Successfully leading multidisciplinary teams and delivering high-quality products on time ⏳.
 - 🎨 Creativity and Design: Developing interactive experiences with an emphasis on visual storytelling and details ✨🎭.
@@ -28,7 +31,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
-| 👀 Current Focus | [![GitHub](https://img.shields.io/github/followers/Dami-Val?style=social)](https://github.com/Dami-Val) |
+| 👀 Current Focus |   |
 |------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 🔹 **Focused on Web Design Excellence 🌐💻:** <br> I’m exploring the world of web design, channeling my technical and creative skills to craft user-centered and visually engaging interfaces that prioritize functionality and beauty. |   ![OMG](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVqMnBtZTRwODFxemUybWI1ZWJraTRlcW55aXA1emk5OHJkeHE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgHq4eDQKKCHqAo/giphy.gif)                                                                                                                         |
 
@@ -78,7 +81,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-Teléfono-25D366?logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-Twitter-00acee?logo=twitter&logoColor=white)](https://x.com/damival_) 
+[![GitHub](https://img.shields.io/badge/-GitHub-010409?style=plastic&logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-c4211f?style=plastic&logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-WhatsApp-36be49?style=plastic&logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-e52765?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white)](https://x.com/damival_) 
 
 
 
