@@ -3,8 +3,8 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?style=plastic&logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
-[![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Seguidores&color=393939)](https://github.com/Dami-Val)
-   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=393939&style=plastic&label=Profile+views&logo=eye)
+[![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409)](https://github.com/Dami-Val)
+   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye)
 
 ✨ I'm passionate about creating innovative solutions that make a difference.
 ##
@@ -19,7 +19,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
-- 💻 Languajes:  [![HTML](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)](https://docs.python.org/3/) [![](https://img.shields.io/badge/-00599C?style=plastic&logo=c&logoColor=white)](https://devdocs.io/c/)
+- 💻 Languajes:  [![HTML](https://img.shields.io/badge/HTML-e14e1d?style=plastic&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-0277bd?style=plastic&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=plastic&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3774a7?style=plastic&logo=python&logoColor=f3f3f3)](https://docs.python.org/3/) [![](https://img.shields.io/badge/-394aab?style=plastic&logo=c&logoColor=white)](https://devdocs.io/c/)
 - 🤖 AI Development | 📚 Project Management
 - ⭐ Project Management: Successfully leading multidisciplinary teams and delivering high-quality products on time ⏳.
 - 🎨 Creativity and Design: Developing interactive experiences with an emphasis on visual storytelling and details ✨🎭.
