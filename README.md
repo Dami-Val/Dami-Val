@@ -1,12 +1,16 @@
 
-<div align="center">
+<div align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=37F740&width=435&lines=%E2%AD%90+Passionate+Engineering+Student+%E2%9C%8D%EF%B8%8F;%F0%9F%93%88+Product+Developer+%F0%9F%94%A7;%F0%9F%8C%B1+Open-Source+Enthusiast+%F0%9F%8E%AF;%F0%9F%91%80+Competitive+Programmer+%F0%9F%92%BB;%F0%9F%98%B8Fun+Fact+Love+Cats+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://github.com/Dami-Val">
+    <img src="https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409&labelColor=010409" alt="GitHub followers" />
+    </a> 
+    <img src="https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye&labelColor=010409" alt="Profile views" />
 </div>
 
 ![My Banner](dam_banner.png)
 
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,  [![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409&labelColor=010409)](https://github.com/Dami-Val)   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye&labelColor=010409)                                                                                                                                              
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,                                                                                                                                         
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?style=plastic&logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
 
@@ -16,6 +20,8 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 ## 🎮 Last project:  [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-010409?style=plastic&logo=github&logoColor=blue&labelColor=010409)](https://github.com/Dami-Val/AnimalBots-Rescue)
+
+
 
 
 ### 🚀 **Skills & Tools**
