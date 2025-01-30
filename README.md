@@ -1,9 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/Rez4-3yz/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=⭐Passionate+Engineer+Srudent✍️;🔧Product+Developer📈;🌱Open-Source+Enthusiast🌱;👀Competitive+Programmer💻&center=true&width=700&height=50">
-  </a>
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&duration=2000&pause=1000&color=37F740&width=435&lines=%E2%AD%90+Passionate+Engineering+Student+%E2%9C%8D%EF%B8%8F;%F0%9F%93%88+Product+Developer+%F0%9F%94%A7;%F0%9F%8C%B1+Open-Source+Enthusiast+%F0%9F%8E%AF;%F0%9F%91%80+Competitive+Programmer+%F0%9F%92%BB;%F0%9F%98%B8Fun+Fact+Love+Cats+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
 ![My Banner](dam_banner.png)
