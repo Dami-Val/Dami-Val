@@ -1,17 +1,15 @@
 ![My Banner](dam_banner.png)
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,  [![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409&labelColor=010409)](https://github.com/Dami-Val)   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye&labelColor=010409)                                                                                                                                              
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?style=plastic&logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
 
-[![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409)](https://github.com/Dami-Val)
-   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye)
 
 ✨ I'm passionate about creating innovative solutions that make a difference.
-##
-## 🔭 Currently working on:   [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-000000?style=plastic&logo=github&logoColor=green&labelColor=000000)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
 
-## 🎮 Last project:   [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-000000?style=plastic&logo=github&logoColor=blue&labelColor=000000)](https://github.com/Dami-Val/AnimalBots-Rescue)
+## 🔭 Currently working on:   [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-010409?style=plastic&logo=github&logoColor=green&labelColor=010409)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
 
+
+## 🎮 Last project:  [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-010409?style=plastic&logo=github&logoColor=blue&labelColor=010409)](https://github.com/Dami-Val/AnimalBots-Rescue)
 
 
 ### 🚀 **Skills & Tools**
@@ -81,7 +79,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-010409?style=plastic&logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-c4211f?style=plastic&logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-WhatsApp-36be49?style=plastic&logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-e52765?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white)](https://x.com/damival_) 
+[![GitHub](https://img.shields.io/badge/-GitHub-010409?style=plastic&logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=in&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-c4211f?style=plastic&logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-WhatsApp-36be49?style=plastic&logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-e52765?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white)](https://x.com/damival_) 
 
 
 
