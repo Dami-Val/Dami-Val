@@ -1,4 +1,13 @@
+
+<div align="center">
+  <a href="https://github.com/Rez4-3yz/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=⭐Passionate+Engineer+Srudent✍️;🔧Product+Developer📈;🌱Open-Source+Enthusiast🌱;👀Competitive+Programmer💻&center=true&width=700&height=50">
+  </a>
+  </a>
+</div>
+
 ![My Banner](dam_banner.png)
+
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" /> Hello guys! My name is Damian,  [![GitHub followers](https://img.shields.io/github/followers/Dami-Val?style=plastic&logo=github&label=Followers&color=010409&labelColor=010409)](https://github.com/Dami-Val)   ![Profile views](https://komarev.com/ghpvc/?username=Dami-Val&color=010409&style=plastic&label=Profile+views&logo=eye&labelColor=010409)                                                                                                                                              
 I'm 19, and as a proud Software Engineering student at the School of Facultad de Ingeniería Electromecánica, [![FIE](https://img.shields.io/badge/-FIE-000066?style=plastic&logo=grad&logoColor=white)](https://portal.ucol.mx/fie/), I’m driven by a vision of blending creativity, strategic organization, and cutting-edge technology to craft solutions that make a lasting impact. 💡✨
