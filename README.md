@@ -80,6 +80,7 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
+
 ### 🎯 My Mission 
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
  <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />
