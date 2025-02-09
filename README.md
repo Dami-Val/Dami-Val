@@ -16,7 +16,8 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ✨ I'm passionate about creating innovative solutions that make a difference.
 
-## 🔭 Currently working on:   [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-010409?style=plastic&logo=github&logoColor=green&labelColor=010409)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
+## 🔭 Currently working on:   [![EducStation By Educcorp](https://img.shields.io/badge/-EducStation%20By%20Educcorp%20-010409?style=plastic&logo=github&logoColor=ffc93e&labelColor=010409)](https://github.com/Educcorp/EducStation.git) [![Damian's Portfolio](https://img.shields.io/badge/-Damian's%20Portfolio-010409?style=plastic&logo=github&logoColor=green&labelColor=010409)](https://github.com/Dami-Val/Damian-s-Portfolio.git)
+
 
 
 ## 🎮 Last project:  [![AnimalBots Rescue](https://img.shields.io/badge/-AnimalBots%20Rescue-010409?style=plastic&logo=github&logoColor=blue&labelColor=010409)](https://github.com/Dami-Val/AnimalBots-Rescue)
