@@ -96,7 +96,7 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
 
 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-010409?style=plastic&logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=in&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-c4211f?style=plastic&logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-WhatsApp-36be49?style=plastic&logo=whatsapp&logoColor=white)](https://w.app/damianvalencia)[![Instagram](https://img.shields.io/badge/-Instagram-e52765?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white)](https://x.com/damival_) 
+[![GitHub](https://img.shields.io/badge/-GitHub-010409?style=plastic&logo=github&logoColor=white)](https://github.com/Dami-Val)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=in&logoColor=white)](https://linkedin.com/in/damian-valencia)  [![Email](https://img.shields.io/badge/-Email-c4211f?style=plastic&logo=gmail&logoColor=white)](mailto:damival.32@gmail.com)  [![My contact](https://img.shields.io/badge/-WhatsApp-36be49?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/523141741239)[![Instagram](https://img.shields.io/badge/-Instagram-e52765?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/damival_/)  [![X/Twitter](https://img.shields.io/badge/-000000?style=plastic&logo=x&logoColor=white)](https://x.com/damival_) 
 
 
 
