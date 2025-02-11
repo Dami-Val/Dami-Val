@@ -43,13 +43,14 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 
 
-| 👀 Current Focus |   |
+| 👀 Current Focus |  <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />  |
 |------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | 🔹 **Focused on Web Design Excellence 🌐💻:** <br> I’m exploring the world of web design, channeling my technical and creative skills to craft user-centered and visually engaging interfaces that prioritize functionality and beauty. <img src="Animation - 1739245661294.gif" width="40" /> |   ![OMG](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVqMnBtZTRwODFxemUybWI1ZWJraTRlcW55aXA1emk5OHJkeHE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgHq4eDQKKCHqAo/giphy.gif)                                                                                                                         |
 
 
 
-## 📈 GitHub Stats 
+## <img src="Animation - 1739246381779.gif" alt="Animation GIF" style="width: 60px;"> GitHub Stats 
+
 
 <div align="center">
 
@@ -86,7 +87,6 @@ I'm 19, and as a proud Software Engineering student at the School of Facultad de
 
 ### 🎯 My Mission 
 To grow as a developer, collaborate on innovative projects, and leave a meaningful mark in the tech world.
-Animation - 1739245661294.gif
  <img src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="40" />
  
 ##
