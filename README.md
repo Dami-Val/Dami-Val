@@ -90,8 +90,8 @@ To grow as a developer, collaborate on innovative projects, and leave a meaningf
  
 ##
 
-### 📫 **Contact Me**
-📢 Let’s Connect! Whether it’s video games, web design, or cutting-edge software, I’m excited to collaborate and create something extraordinary. 🤝💻
+### <img src="Animation - 1739245728068.gif" alt="Animation GIF" style="width: 50px;"> **Contact Me**
+📢 Let’s Connect! Whether it’s video games, web design, or cutting-edge software, I’m excited to collaborate and create something extraordinary. 🤝📫
 
 
 
